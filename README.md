@@ -1,1 +1,3 @@
 # Computational-Physics-Assignment
+
+A cook is tasked with cooking 20 pizzas at any one time using an oven. However, the cook does not bother whether a particular pizza is cooked properly. He randomly chooses one pizza and removes it from the oven, and replaces it with a new pizza. What is the distribution of cooking times for the pizza? The pizzas are replaced at regular intervals of 30 seconds and there is an infinite supply of pizzas. What is the distribution of cooking times of the pizzas? Write a program to simulate the cooking of the pizzas. The program only needs to obtain the cooking time for each pizza and get the distribution. Don’t bother simulating the cooking process! Does the qualitative distribution change if there are 40 pizzas at one time?
